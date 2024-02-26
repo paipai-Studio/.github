@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is `paipai` _(TangJin Tech Beijing Center > [paipai Studio](https://github.com/paipai-Studio))_.
+This is `paipai` _(TangJin Tech > [paipai Studio](https://github.com/paipai-Studio))_.
 
 * 🏷️ Project
 
